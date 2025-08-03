@@ -2,14 +2,6 @@
 
 Welcome to our collaborative learning project! This repository contains JavaScript presentations delivered by students of **Batch No. 03**. Each week, selected students present a specific JavaScript topic and share their learning materials here.
 
----
-
-## 📅 Schedule
-
-![Schedule](./learn1.jpeg)
-
----
-
 ## 📚 Presentations
 
 | Week | Presenter(s)        | Topic                    | PDF Slide   Link                                           | Recording (Optional) |
