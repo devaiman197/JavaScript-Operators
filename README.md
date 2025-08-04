@@ -4,12 +4,12 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 
 ## 📚 Presentations
 
-| Week | Presenter(s)        | Topic                    | PDF Slide   Link                                           | Recording (Optional) |
-|------|----------------------|--------------------------|----------------------------------------------------------|-----------------------|
-| 01   | Fatima Arshad | Introduction to JS      | [View PDF](./pdfs/week1-intro-js.pdf)                    | [Watch](https://youtu.be/example1) |
+| Week | Presenter(s)  | Topic              | PDF Slide Link                        | Recording (Optional)               |
+| ---- | ------------- | ------------------ | ------------------------------------- | ---------------------------------- |
+| 01   | Fatima Arshad | Introduction to JS | [View PDF](./pdfs/week1-intro-js.pdf) | [Watch](https://youtu.be/example1) |
+| 02   | USWA  MARYAM | Datatype or vairbale | [View PDF](./dayno01/pdf) | [Watch](https://youtu.be/example1) |
 
 📌 Add your PDF files inside a `/pdfs` folder and update the links accordingly.
-
 
 ## 🤝 How to Contribute
 
@@ -22,6 +22,7 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 ---
 
 ## 🧑‍🏫 Managed By:
+
 **Instructor**: Fatima Arshad  
 **Institute**: Saylani Mass IT Training (SMIT), FSD  
 **Batch**: No. 03
@@ -29,4 +30,12 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 ---
 
 ## 💬 Contact
+
 For questions or contributions, feel free to open an issue
+
+GitHub Repository – https://github.com/Fatimaarshad10/learn-JavaScript-together
+
+This is our new repository for upcoming meetings. We will document all presenter names and their contributions here.
+
+-> The best part is you will push your own code to this repository!
+This approach will make it a truly collaborative project, helping everyone learn version control and teamwork more effectively.
