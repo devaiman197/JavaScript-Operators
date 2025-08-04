@@ -7,7 +7,7 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 | Week | Presenter(s)  | Topic              | PDF Slide Link                        | Recording (Optional)               |
 | ---- | ------------- | ------------------ | ------------------------------------- | ---------------------------------- |
 | 01   | Fatima Arshad | Introduction to JS | [View PDF](./pdfs/week1-intro-js.pdf) | [Watch](https://youtu.be/example1) |
-| 02   | USWA  MARYAM | Datatype or vairbale | [View PDF](./dayno01/pdf) | [Watch](https://youtu.be/example1) |
+
 
 📌 Add your PDF files inside a `/pdfs` folder and update the links accordingly.
 
