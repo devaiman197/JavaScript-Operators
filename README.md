@@ -6,7 +6,7 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 
 | Week | Presenter(s)  | Topic              | PDF Slide Link                        | Recording (Optional)               |
 | ---- | ------------- | ------------------ | ------------------------------------- | ---------------------------------- |
-| 01   | Maryam,Uswa| Variables and Datatypes | [View PDF] https://drive.google.com/file/d/13mqx9_KKLV5aK1eEfuuJeofFaFrOiZi7/view?usp=sharing | [Watch] https://drive.google.com/file/d/1bt-VSSbYoVVIzfVoLc9GJF1E5Q8MrmLQ/view?usp=sharing |
+| 01   | Maryam,Uswa| Variables and Datatypes | [View PDF](https://drive.google.com/file/d/13mqx9_KKLV5aK1eEfuuJeofFaFrOiZi7/view?usp=sharing) | [Watch](https://drive.google.com/file/d/1bt-VSSbYoVVIzfVoLc9GJF1E5Q8MrmLQ/view?usp=sharing) |
 
 
 📌 Add your PDF files inside a `/pdfs` folder and update the links accordingly.
